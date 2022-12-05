@@ -1,6 +1,8 @@
 ### Hi there 👋
+### I'm a QA Engineer
+### Ny CV
+[Link to my CV](https://drive.google.com/file/d/1WNQuxpHjKU-i2wMQtgs-B5ghlvDkgW-n/view?usp=share_link)
 
-<!--
 **khrebtovr/khrebtovr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
