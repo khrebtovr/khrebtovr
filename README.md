@@ -15,3 +15,16 @@
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Selenium_IDE-090909?style=for-the-badge&logo=selenium&logoColor=1a468d)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=1a468d)
+
+### Testing Documentation
+- [Design Test Techniques]()
+- [Checklists]()
+- [Test-suites and Test-Cases]()
+- [Bug-reports]()
+- [SQL Queries]()
+- [Postman Collections]()
+- [AutoTests in Selenium IDE]()
+- [Fiddler API]()
+- [JSON]()
+- [XML]()
