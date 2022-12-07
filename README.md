@@ -19,7 +19,7 @@
 
 ### Testing Documentation
 - [Design Test Techniques](./Design_Test_Techniques/)
-- [Checklists]()
+- [Checklists](./Ckecklists/)
 - [Test-suites and Test-Cases]()
 - [Bug-reports]()
 - [SQL Queries]()
