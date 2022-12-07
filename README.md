@@ -20,8 +20,8 @@
 ### Testing Documentation
 - [Design Test Techniques](./Design_Test_Techniques/)
 - [Checklists](./Ckecklists/)
-- [Test-suites and Test-Cases]()
-- [Bug-reports]()
+- [Test-suites and Test-Cases](./Test_Cases/)
+- [Bug-reports](./Bug_reports/)
 - [SQL Queries]()
 - [Postman Collections]()
 - [AutoTests in Selenium IDE]()
