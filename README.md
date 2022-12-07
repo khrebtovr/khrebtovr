@@ -22,7 +22,7 @@
 - [Checklists](./Ckecklists/)
 - [Test-suites and Test-Cases](./Test_Cases/)
 - [Bug-reports](./Bug_reports/)
-- [SQL Queries]()
+- [SQL Queries](./SQL_practice/)
 - [Postman Collections]()
 - [AutoTests in Selenium IDE]()
 - [Fiddler API]()
