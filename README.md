@@ -18,7 +18,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=1a468d)
 
 ### Testing Documentation
-- [Design Test Techniques]()
+- [Design Test Techniques](./Design_Test_Techniques/)
 - [Checklists]()
 - [Test-suites and Test-Cases]()
 - [Bug-reports]()
