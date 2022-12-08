@@ -23,7 +23,7 @@
 - [Test-suites and Test-Cases](./Test_Cases/)
 - [Bug-reports](./Bug_reports/)
 - [SQL Queries](./SQL_practice/)
-- [Postman Collections]()
+- [Postman Collections](./Postman_Collections/)
 - [AutoTests in Selenium IDE]()
 - [Fiddler API]()
 - [JSON]()
