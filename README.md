@@ -24,7 +24,7 @@
 - [Bug-reports](./Bug_reports/)
 - [SQL Queries](./SQL_practice/)
 - [Postman Collections](./Postman_Collections/)
-- [AutoTests in Selenium IDE]()
+- [AutoTests in Selenium IDE](./AutoTests_in_Selenium_IDE/)
 - [Fiddler API]()
 - [JSON]()
 - [XML]()
