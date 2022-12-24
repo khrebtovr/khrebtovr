@@ -1,9 +1,18 @@
 ### Hi there 👋
+
 ### I'm a QA Engineer
+
 ### My CV
+
 [Link to my CV](https://drive.google.com/file/d/1WNQuxpHjKU-i2wMQtgs-B5ghlvDkgW-n/view?usp=share_link)
 
+### Socials:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/khrebtovr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/khrebtovr/)
+
 ### Language and Tools 
+
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -25,6 +34,3 @@
 - [SQL Queries](./SQL_practice/)
 - [Postman Collections](./Postman_Collections/)
 - [AutoTests in Selenium IDE](./AutoTests_in_Selenium_IDE/)
-- [Fiddler API]()
-- [JSON]()
-- [XML]()
