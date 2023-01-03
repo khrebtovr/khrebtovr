@@ -4,7 +4,7 @@
 
 ### My CV
 
-[Link to my CV](https://drive.google.com/file/d/1WNQuxpHjKU-i2wMQtgs-B5ghlvDkgW-n/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/1ofHCzFBTeHkdMZv0U5U_dEMVav6H9rR-/view?usp=share_link)
 
 ### Socials:
 
